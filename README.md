@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 #### Technologies/Frameworks: React.js, yfinance, Numpy, Pandas, Matplotlib
 
 💬 I love talking and sharing experience with new people, so HMU!
+
 📫 How to reach: 
-⋅⋅* LinkedIn: www.linkedin.com/in/jennymyz 
-⋅⋅* IG: jennymyzhang
+## ⋅⋅* LinkedIn: www.linkedin.com/in/jennymyz 
+## ⋅⋅* IG: jennymyzhang
 
 
 
