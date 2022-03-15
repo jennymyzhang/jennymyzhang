@@ -8,6 +8,8 @@ I'm currently learning **web development** (HTML, CSS, JS, and React) to create 
 
 In my spare time, I enjoy singing, dancing, and spending time with my puppy at home. 
 
+Check out my projects [here](https://github.com/jennymyzhang?tab=repositories)!
+
 ### Let's Get In Touch 👇: 
 * LinkedIn: www.linkedin.com/in/jennymyz 
 * IG: www.instagram.com/jennymyzhang
