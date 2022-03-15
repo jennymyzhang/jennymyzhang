@@ -12,4 +12,4 @@
 
 ### 📫 How to reach: 
 * LinkedIn: www.linkedin.com/in/jennymyz 
-* IG: https://www.instagram.com/jennymyzhang
+* IG: www.instagram.com/jennymyzhang
