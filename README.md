@@ -1,15 +1,11 @@
 # Hi there 👋
 
-🌱 I'm currently an undergraduate studying Computer Science and Finance at the University of Waterloo.
+🌱 Hi, I'm Jenny! I'm currently an undergraduate studying Computer Science and Finance at the University of Waterloo.
 
-## About me
-💬 I love talking and sharing experience with new people. 
+I love building projects in **Python** and have experience working with libraries such as Yahoo Finance, Numpy, Pandas, and Matplotlib.
 
-**Favourite Languages / Libraries:**
-- Languages: Python, HTML, CSS, JavaScript, C, Racket, Latex
-- Developer Tools: Git, GitHub, Excel, MS Office
-- Technologies/Frameworks: React.js, yfinance, Numpy, Pandas, Matplotlib
+In my spare time, I enjoy singing, dancing, and spending time with my puppy at home. 
 
-### 📫 How to reach: 
+### 📫 Get In Touch: 
 * LinkedIn: www.linkedin.com/in/jennymyz 
 * IG: www.instagram.com/jennymyzhang
