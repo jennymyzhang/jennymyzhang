@@ -5,7 +5,7 @@
 ## About me
 💬 I love talking and sharing experience with new people. 
 
-## Favourite Languages / Libraries:
+**Favourite Languages / Libraries:**
 - Languages: Python, HTML, CSS, JavaScript, C, Racket, Latex
 - Developer Tools: Git, GitHub, Excel, MS Office
 - Technologies/Frameworks: React.js, yfinance, Numpy, Pandas, Matplotlib
