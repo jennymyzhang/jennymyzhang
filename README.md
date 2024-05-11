@@ -2,7 +2,7 @@
 
 <h3 align="center">🔗 Connect with Me 🔗</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jenny">
+  <a href="https://www.linkedin.com/in/jennymyz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://main--jennyzhang.netlify.app/">
