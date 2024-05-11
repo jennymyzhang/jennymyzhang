@@ -1,4 +1,4 @@
-<h1 align="center">🌼 Hey! I'm Jenny 🌼</h1>
+<h1 align="center">🍣 Hey! I'm Jenny 🍣</h1>
 
 <h3 align="center">🔗 Connect with Me 🔗</h3>
 <p align="center">
