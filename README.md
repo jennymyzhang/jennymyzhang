@@ -14,7 +14,7 @@
 
 <p align="center">
 🎓 I'm an undergrad student at the <strong>University of Waterloo</strong>, triple majoring in <strong>Computer Science, Statistics, and Finance</strong>.<br>
-🛠️ <strong>Internship and Project Experience:</strong> Full-stack development, mobile app development, Quantitative Analysis.
+🛠️ <strong>Internship and Project Experience:</strong> ML, AI, Infratructure, Backend, Full-stack development, mobile app development, Quantitative Analysis.
 <br>
 💬 In my downtime, I love to cook and hanging out with my friends!
 </p>
